@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="assets/hero.png" width="100%" alt="PACMAN Demon Realm">
+<img src="assets/main.png" width="100%" alt="PACMAN Demon Realm">
 
 <br>
 <br>
@@ -234,7 +234,7 @@ Before entering the maze, the player can select a playable character.
 
 <div align="center">
 
-<img src="assets/character-select.png" width="800" alt="Character Selection">
+<img src="assets/character.png" width="800" alt="Character Selection">
 
 </div>
 
@@ -280,7 +280,7 @@ After confirming with **ENTER**, the selected level is loaded.
 
 <div align="center">
 
-<img src="assets/level-select.png" width="800" alt="Level Selection">
+<img src="assets/level.png" width="800" alt="Level Selection">
 
 </div>
 
@@ -1321,7 +1321,7 @@ Ctrl + F5
 
 # 🌑 THE REALM
 
-<img src="assets/menu.png" width="850" alt="Main Menu">
+<img src="assets/main.png" width="850" alt="Main Menu">
 
 ### `THE GATES ARE OPEN.`
 
@@ -1331,7 +1331,7 @@ Ctrl + F5
 
 # 🎭 THE CHOSEN ONE
 
-<img src="assets/character-select.png" width="850" alt="Character Selection">
+<img src="assets/character.png" width="850" alt="Character Selection">
 
 ### `CHOOSE YOUR FORM.`
 
@@ -1341,7 +1341,7 @@ Ctrl + F5
 
 # 🗺️ THE MAZE
 
-<img src="assets/level-select.png" width="850" alt="Level Selection">
+<img src="assets/level.png" width="850" alt="Level Selection">
 
 ### `CHOOSE YOUR DESTINATION.`
 
@@ -1351,7 +1351,7 @@ Ctrl + F5
 
 # 👹 THE HUNT
 
-<img src="assets/gameplay.png" width="850" alt="Gameplay">
+<img src="assets/game.png" width="850" alt="Gameplay">
 
 ### `THE DEMONS ARE AWAKE.`
 
