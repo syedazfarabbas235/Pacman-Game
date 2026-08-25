@@ -217,9 +217,9 @@ The game starts with a Demon Realm themed menu.
 ║                                                    ║
 ║               DEMON REALM                          ║
 ║                                                    ║
-║          Press [ENTER] to Start Game              ║
+║          Press [ENTER] to Start Game               ║
 ║                                                    ║
-║             Press [T] for Tutorials               ║
+║             Press [T] for Tutorials                ║
 ║                                                    ║
 ╚════════════════════════════════════════════════════╝
 ```
